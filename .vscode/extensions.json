@@ -1,5 +1,8 @@
 {
     "recommendations": [
-        "vscodevim.vim"
+        "vscodevim.vim",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
     ]
 }
