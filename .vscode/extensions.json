@@ -3,6 +3,7 @@
         "vscodevim.vim",
         "editorconfig.editorconfig",
         "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "github.vscode-github-actions"
     ]
 }
